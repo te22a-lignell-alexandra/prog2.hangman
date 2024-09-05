@@ -1,0 +1,14 @@
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\bin\Debug\net8.0\prog2.hangman.exe
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\bin\Debug\net8.0\prog2.hangman.deps.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\bin\Debug\net8.0\prog2.hangman.runtimeconfig.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\bin\Debug\net8.0\prog2.hangman.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\bin\Debug\net8.0\prog2.hangman.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\prog2.hangman.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\prog2.hangman.AssemblyInfoInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\prog2.hangman.AssemblyInfo.cs
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\prog2.hangman.csproj.CoreCompileInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\prog2.hangman.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\refint\prog2.hangman.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\prog2.hangman.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\prog2.hangman.genruntimeconfig.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.hangman\prog2.hangman\obj\Debug\net8.0\ref\prog2.hangman.dll
